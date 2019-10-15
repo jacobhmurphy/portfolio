@@ -1,0 +1,19 @@
+html { 
+    background: url(beach-background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+p {
+    color: white;
+}
