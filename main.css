@@ -44,6 +44,14 @@ p {
     margin-right: auto;
     border: 40px;
     font-size: 14px;
+    margin-top: 30px;
 }
 
 /* Roger did text-align in the wrapper tag */   
+
+.hrAbout {
+    height: 3px;
+    background-color: #bfbfbf;
+    border: none;
+    width: 50px;
+}
