@@ -31,10 +31,6 @@ h2 {
     margin-top: 0px;
 }
 
-p {
-    text-align: center;
-}
-
 #wrapper {
     width: 500px;
     margin-left: auto;
@@ -78,5 +74,5 @@ ul.navBar {
   }
   
   .active {
-    background-color: #4CAF50;
+    background-color: #99badd;
   }
